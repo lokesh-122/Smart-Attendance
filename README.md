@@ -1,3 +1,3 @@
 # Smart-Attendance
 
-We know everyday there are lot organizastions who look for the prescence time of their members in short attendcee 
+We know every day there are lot of organisations who look for the presence time of their members in short attendance 
